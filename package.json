@@ -1,6 +1,6 @@
 {
   "name": "test-miniapp",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "private": false,
   "scripts": {
     "android": "react-native run-android",
@@ -12,8 +12,6 @@
   "dependencies": {
     "ern-navigation": "1.2.4",
     "react": "17.0.1",
-    "react-native-fbads": "7.0.5",
-    "react-native-fbsdk": "1.1.2",
     "react-native": "0.64.0"
   },
   "devDependencies": {
